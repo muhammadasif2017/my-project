@@ -1,5 +1,15 @@
 """"LIST OF NAMES OF STUDENTS""""
 
+"""BOYS NAMES"""
 1. Muhammad Asif
 2. Muhammad Amir
 3. Abrar Rasheed
+4. Muazam Butt
+
+
+
+"""GIRLS NAMES"""
+1. Armani
+2. Maria
+3. Any
+4. Gwen
